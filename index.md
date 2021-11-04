@@ -11,9 +11,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Chrome
+
+Printing
+
+How to shrink a Word ducoment into smaller files in order to print in batches of ten.
+
+e-mail
 
 - Bulleted
 - List
